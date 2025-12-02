@@ -1,9 +1,11 @@
 ⭐ Awesome Prompts for Software Engineers
+<p align="left"> <a href="https://github.com/garlichck/chatgpt-prompt-for-software-engineer/stargazers"> <img src="https://img.shields.io/github/stars/garlichck/chatgpt-prompt-for-software-engineer?style=flat-square&color=yellow" alt="Stars" /> </a> <a href="https://github.com/garlichck/chatgpt-prompt-for-software-engineer/network/members"> <img src="https://img.shields.io/github/forks/garlichck/chatgpt-prompt-for-software-engineer?style=flat-square&color=blue" alt="Forks" /> </a> <a href="https://github.com/garlichck/chatgpt-prompt-for-software-engineer/issues"> <img src="https://img.shields.io/github/issues/garlichck/chatgpt-prompt-for-software-engineer?style=flat-square&color=red" alt="Issues" /> </a> <a href="LICENSE"> <img src="https://img.shields.io/github/license/garlichck/chatgpt-prompt-for-software-engineer?style=flat-square&color=green" alt="License" /> </a> <a href="https://github.com/topics/chatgpt"> <img src="https://img.shields.io/badge/Topic-ChatGPT-blueviolet?style=flat-square" alt="Topic ChatGPT" /> </a> </p>
 
-ChatGPT prompts for real engineering work — Java, Spring Boot, SQL, Postgres, React, DevOps, CI/CD, System Design.
+High-quality, production-ready ChatGPT prompts for Java, Spring Boot,
+SQL/Postgres, React, DevOps, CI/CD, and System Design.
 
-Boost productivity. Debug faster. Ship better code.
-
+Boost productivity. Debug faster. Design better systems.
+Made for real engineers.
 
 🔥 Featured Prompts (Quick Sample)
 🟦 Java
@@ -62,28 +64,12 @@ prompts/
   devops/
   system-design/
 
-🎁 Premium Pack (Coming Soon)
-
-A polished 200+ prompt pack including:
-
-Java / Spring Boot (80)
-
-React (50)
-
-SQL & Postgres (40)
-
-CI/CD + DevOps (20)
-
-System Design (20)
-
-Designed for daily developer workflow.
 
 ⭐ Support This Project
 
 If you find this helpful:
 
 👉 Star this repo to help it reach more developers ⭐
-
 More prompts added regularly.
 
 📬 Contribute
